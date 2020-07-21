@@ -32,3 +32,41 @@ Se anexan imágenes (formulario#.png) en directorio raíz de ejemplos al ejecuta
         versionName "1.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
+
+## Captura de Pantalla - Formulario Contacto
+
+<div align="center">
+    <center>
+        <img src="formulario1.png" width="500">
+    </center>
+</div>
+<br>
+<div align="center">
+    <center>
+        <img src="formulario2.png" width="500">
+    </center>
+</div>
+<br>
+<div align="center">
+    <center>
+        <img src="formulario3.png" width="500">
+    </center>
+</div>
+<br>
+<div align="center">
+    <center>
+        <img src="formulario4.png" width="500">
+    </center>
+</div>
+<br>
+<div align="center">
+    <center>
+        <img src="formulario5.png" width="500">
+    </center>
+</div>
+<br>
+<div align="center">
+    <center>
+        <img src="formulario6.png" width="500">
+    </center>
+</div>
